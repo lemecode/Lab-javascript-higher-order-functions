@@ -23,8 +23,8 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ```
 
 # Instructions
-Create app.js and index.html. Write the code for the following functionalities given below and see the output in console.
 
+Create app.js and index.html. Write the code for the following functionalities given below and see the output in console.
 ### Function #1: Array Slice
 
 Take an example array. We will be using the below array for reference.
